@@ -1,0 +1,7 @@
+# virtual env
+**/venv/
+**/ENV/
+**/virtualenv/
+
+# IPython Notebook
+**/.ipynb_checkpoints
